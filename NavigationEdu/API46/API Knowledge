@@ -1,0 +1,15 @@
+  {
+    /* we will create a fake api by the json server (exa- go json server in github link) here are some step
+1- install 'npm install -g json-server' on the cmd 
+2-  check json server install 'json-server' 
+3-  if watch json server type in cmd 'C:\Users\mantu\Desktop\api>json-server --watch db.json' 
+4- here will display resources like
+ " http://localhost:3000/users" and google there will be show api 
+ 
+** How to connect VS code to android Emulator 3 step **
+  1- ipconfig types in cmd (because known ip address ipv 4 ). 
+  2- json-server --host 0.0.0.0 db.json in console
+  4- Local IP Address paste in broweser (exa - 192.168.43.12:3000)
+  3-  write in 'const url = http://10.0.2.2:3000/users' 
+ */
+ }
